@@ -14,6 +14,7 @@ namespace KhoiTao
             int a = 1;
             int b = 2;
             Console.WriteLine("a + b = {0} ", a+b);
+            Console.WriteLine("chuong trinh da ket thuc");
             Console.ReadLine();
         }
     }
