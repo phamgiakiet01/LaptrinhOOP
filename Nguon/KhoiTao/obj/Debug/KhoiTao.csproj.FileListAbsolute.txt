@@ -1,0 +1,7 @@
+D:\PGK\MaNguon\Nguon\KhoiTao\bin\Debug\KhoiTao.exe.config
+D:\PGK\MaNguon\Nguon\KhoiTao\bin\Debug\KhoiTao.exe
+D:\PGK\MaNguon\Nguon\KhoiTao\bin\Debug\KhoiTao.pdb
+D:\PGK\MaNguon\Nguon\KhoiTao\obj\Debug\KhoiTao.csproj.AssemblyReference.cache
+D:\PGK\MaNguon\Nguon\KhoiTao\obj\Debug\KhoiTao.csproj.CoreCompileInputs.cache
+D:\PGK\MaNguon\Nguon\KhoiTao\obj\Debug\KhoiTao.exe
+D:\PGK\MaNguon\Nguon\KhoiTao\obj\Debug\KhoiTao.pdb
